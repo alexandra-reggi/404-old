@@ -1,0 +1,54 @@
+h1{
+	text-align:center;
+	text-shadow:6px 6px 6px grey;
+}
+
+h2{
+	text-align:center;
+	text-decoration:underline red;
+	
+}
+
+#phrase0{
+	font-size:120%;
+	font-style:italic;
+	text-decoration:underline;
+	
+}
+
+#im-loup{
+	
+	margin-right: 110px;
+}
+
+#im-pan{
+	width: 267px;
+    height: 194px;
+
+}
+#im-sens-int{
+ height: 200px;
+ 
+}
+
+#phrase-retour{
+font-size:large;
+}
+
+
+#supbox {
+	display:flex;
+	
+}
+
+.box1{
+	display:flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	padding-left:10px;
+	width: 100%;
+}
+.bandeau{
+	font-size:18px;
+}
